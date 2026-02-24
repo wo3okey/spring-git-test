@@ -8,7 +8,7 @@ public class CleanSpringApplication {
 
     public static void main(String[] args) {
         System.out.println("A");
-        System.out.println("나 어떤작업 해버릴거야");
+        System.out.println("내 작업이 쩔어");
         SpringApplication.run(CleanSpringApplication.class, args);
     }
 
