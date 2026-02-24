@@ -9,6 +9,7 @@ public class CleanSpringApplication {
     public static void main(String[] args) {
         System.out.println("A");
         System.out.println("내 작업이 쩔어!!!!!");
+        System.out.println("한줄 더 추가");
         SpringApplication.run(CleanSpringApplication.class, args);
     }
 
